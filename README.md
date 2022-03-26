@@ -1,4 +1,4 @@
-# `@solana/wallet-adapter-nextjs-starter`
+# `Flipping Bird NFT on Solana`
 
 <!-- @TODO -->
 
