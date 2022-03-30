@@ -1,4 +1,5 @@
-# `Flipping Bird NFT on Solana`
+# `
+NFT on Solana`
 
 <!-- @TODO -->
 
